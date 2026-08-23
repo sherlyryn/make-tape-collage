@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tape Collage"
+  short_description: "Create tactile tape collages and photo split layouts"
+  default_prompt: "Use $make-tape-collage to turn this image or description into a clean tape collage."
