@@ -4,7 +4,6 @@
 
 将照片或简短描述转化为干净、具有触感的和纸胶带拼贴作品。该 skill 也支持忠实保留原始照片，并在同一张连续的暖白手账纸上搭配一幅紧凑的胶带重构图案。
 
-![柔和结构胶带拼贴参考](assets/style-references/reference-10-soft-structural-collage.png)
 
 ## 主要特点
 
@@ -150,7 +149,7 @@ python scripts/compose_direct_split.py \
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/make-tape-collage.git
+git clone https://github.com/sherlyryn/make-tape-collage.git
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
 cp -R make-tape-collage \
   "${CODEX_HOME:-$HOME/.codex}/skills/make-tape-collage"
