@@ -4,7 +4,6 @@
 
 Turn a photograph or short description into a clean, tactile washi-tape collage. The skill can also preserve an original photograph unchanged and pair it with a compact tape-built interpretation on one continuous warm-white journal-paper sheet.
 
-![Soft structural tape-collage reference](assets/style-references/reference-10-soft-structural-collage.png)
 
 ## Highlights
 
@@ -150,7 +149,7 @@ Run `python scripts/compose_direct_split.py --help` for layout, aspect, crop, mo
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/make-tape-collage.git
+git clone https://github.com/sherlyryn/make-tape-collage.git
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
 cp -R make-tape-collage \
   "${CODEX_HOME:-$HOME/.codex}/skills/make-tape-collage"
